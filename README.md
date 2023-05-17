@@ -1,2 +1,2 @@
 # Mathematical-Trading-Strategies
-### I have put all assignments of the project to keep a track of my progress during the course of the project.
+### This is a repository for keeping track of my project. I have added all my assignments in different folders.
