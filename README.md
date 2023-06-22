@@ -65,7 +65,8 @@ m=Number of standard deviations (typically 2)
 >Signal line=EMA MACD  
 >MACD histogram = MACD line - Signal line
 
-
+## 10. Resource for chart patterns
+>https://www.investopedia.com/articles/technical/112601.asp
 
 ## Some basic codes:
     .cumprod() //calculating cumulative product
